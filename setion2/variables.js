@@ -48,4 +48,3 @@ function amma(sriram,subhash){
 }
 let abc = amma(26,23)
 console.log(abc)
-//cool
